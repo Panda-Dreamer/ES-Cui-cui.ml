@@ -51,6 +51,6 @@ Clic Droit > Inspecter > Ctrl+Maj+M  > Sélectionez dans "Dimensions" un modèle
 - Serveur api: python bottle
 
 - Hébergeur: oracle
-- Localisation: Cardiff
+- Emplacement: Cardiff
 - Ram: 12GB
 - OCPUs: 2 (Ampere)
