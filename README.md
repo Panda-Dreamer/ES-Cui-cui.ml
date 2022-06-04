@@ -43,14 +43,14 @@ Clic Droit > Inspecter > Ctrl+Maj+M  > Sélectionez dans "Dimensions" un modèle
 
 
 ## Informations sur le serveur
-Système d'exploitation: Linux, Ubuntu
-Architecture: aarch64
+- Système d'exploitation: Linux, Ubuntu
+- Architecture: aarch64
 
-Interface web: nginx
-Interpréteur php: php5.6-fpm
-Serveur api: python bottle
+- Interface web: nginx
+- Interpréteur php: php5.6-fpm
+- Serveur api: python bottle
 
-Hébergeur: oracle
-Localisation: Cardiff
-Ram: 12GB
-OCPUs: 2 (Ampere)
+- Hébergeur: oracle
+- Localisation: Cardiff
+- Ram: 12GB
+- OCPUs: 2 (Ampere)
