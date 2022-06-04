@@ -13,7 +13,7 @@ II. La vidéo se trouve à ce lien: [Présentation application](https://youtu.be
     les transformations ne marchent pas avec les sons d'oiseaux comme dit juste après.
 
 
-III. Le code du serveur se trouve dans le fichier: *serveur* qui nécessite Python 3.8 
+III. Le code du serveur se trouve dans le fichier: [Serveur](serveur) qui nécessite Python 3.8 
 
 
 IV. Le code du site se trouve dans le dossier: *client*
