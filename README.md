@@ -1,3 +1,5 @@
+![alt text](https://github.com/Panda-Dreamer/ES-Cui-cui.ml/blob/main/client/resources/logo.svg)
+
 I. L'application est accesible via ce lien : [Cui-Cui Analyzer](https://cui-cui.ml)
 
 
