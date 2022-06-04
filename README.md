@@ -42,6 +42,11 @@ Clic Droit > Inspecter > Ctrl+Maj+M  > Sélectionez dans "Dimensions" un modèle
 
 
 
+
+
+
+
+
 ## Informations sur le serveur
 - Système d'exploitation: Linux, Ubuntu
 - Architecture: aarch64
