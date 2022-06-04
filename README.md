@@ -31,6 +31,8 @@ V. 🎬 Le lien de la vidéo approfondissant le fonctionnement de l'IA est acces
 
 Appuyer sur options (les trois petits points verticaux) > "Ajouter à l'écran d'accueil"
 
+
+
 ⚠️**Si vous testez l'application sur pc 💻**⚠️
 
 Clic Droit > Inspecter > Ctrl+Maj+M  > Sélectionez dans "Dimensions" un modèle de mobile
