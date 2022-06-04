@@ -39,3 +39,18 @@ Appuyer sur options (les trois petits points verticaux) > "Ajouter à l'écran d
 ### ⚠️**Si vous testez l'application sur pc 💻**⚠️
 
 Clic Droit > Inspecter > Ctrl+Maj+M  > Sélectionez dans "Dimensions" un modèle de mobile
+
+
+
+## Informations sur le serveur
+Système d'exploitation: Linux, Ubuntu
+Architecture: aarch64
+
+Interface web: nginx
+Interpréteur php: php5.6-fpm
+Serveur api: python bottle
+
+Hébergeur: oracle
+Localisation: Cardiff
+Ram: 12GB
+OCPUs: 2 (Ampere)
