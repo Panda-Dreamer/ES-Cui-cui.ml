@@ -1,4 +1,4 @@
-Premièrement, l'application est accesible via ce lien : [Cui-Cui Analyzer](cui-cui.ml)
+Premièrement, l'application est accesible via ce lien : [Cui-Cui Analyzer](https://cui-cui.ml)
 
 
 Deuxièmement, la vidéo se trouve à ce lien: [Présentation application]()
