@@ -10,4 +10,4 @@ Troisièmement, le code du serveur se trouve dans le fichier: *serveur* qui néc
 Quatrièmement, le code du site se trouve dans le dossier: *client*
 
 
-Cinquièmement le lien de la vidéo approfondissant le fonctionnement de l'IA est accessible via ce lien:[Présentation IA]()
+Cinquièmement le lien de la vidéo approfondissant le fonctionnement de l'IA est accessible via ce lien:[Présentation IA](https://youtu.be/V0IeZ-uRZok)
