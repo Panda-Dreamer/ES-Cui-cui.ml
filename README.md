@@ -15,6 +15,8 @@ IV. Le code du site se trouve dans le dossier: *client*
 V. Le lien de la vidéo approfondissant le fonctionnement de l'IA est accessible via ce lien:[Présentation IA](https://youtu.be/V0IeZ-uRZok)
 
 
+
+
 **Si vous testez l'application sur mobile**
 Appuyer sur options (les trois petits points verticaux) > "Ajouter à l'écran d'accueil"
 
