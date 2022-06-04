@@ -1,0 +1,21 @@
+{
+    "short_name": "Cui-Cui",
+    "name": "Cuicui",
+    "icons": [
+      {
+        "src": "/resources/pwa/icons-cuicui-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/resources/pwa/icons-cuicui-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "index.php",
+    "background_color": "#F8FCF8",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "theme_color": "#F8FCF8",
+}  
