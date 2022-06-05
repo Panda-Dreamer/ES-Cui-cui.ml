@@ -43,11 +43,11 @@ Clic Droit > Inspecter > Ctrl+Maj+M  > Sélectionez dans "Dimensions" un modèle
 
 
 ## Correctifs et ajouts depuis le 05/0/2022
-- [x] Affichage du logo lorsque qu'il n'y a pas d'iamge pour l'oiseau
-- [ ] Correctif sur le fonctionnement du bouton "Analyse en cours"
-- [ ] Amélioration des traduction
-- [ ] Ajout de le possibilitée d'écouter l'oiseau
-- [ ] Ajout du bouton micro et de la possibilitée de directement enregistrer pour certains systèmes
+- ✅ Affichage du logo lorsque qu'il n'y a pas d'iamge pour l'oiseau
+- ❎ Correctif sur le fonctionnement du bouton "Analyse en cours"
+- ❎ Amélioration des traduction
+- ❎] Ajout de le possibilitée d'écouter l'oiseau
+- ❎ Ajout du bouton micro et de la possibilitée de directement enregistrer pour certains systèmes
 
 
 
