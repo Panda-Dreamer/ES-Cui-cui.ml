@@ -49,7 +49,7 @@ Clic Droit > Inspecter > Ctrl+Maj+M  > Sélectionez dans "Dimensions" un modèle
 - ✅ Amélioration des traduction
 - ❎ Ajout de la possibilitée d'écouter l'oiseau
 - ❎ Ajout du bouton micro et de la possibilitée de directement enregistrer pour certains systèmes
-- ❎ https://github.com/Panda-Dreamer/ES-Cui-cui.ml/issues/1
+- ❎ [Conseils pour l'amélioration des résultats](https://github.com/Panda-Dreamer/ES-Cui-cui.ml/issues/1)
 
 
 
