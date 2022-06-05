@@ -49,6 +49,7 @@ Clic Droit > Inspecter > Ctrl+Maj+M  > Sélectionez dans "Dimensions" un modèle
 - ✅ Amélioration des traduction
 - ❎ Ajout de la possibilitée d'écouter l'oiseau
 - ❎ Ajout du bouton micro et de la possibilitée de directement enregistrer pour certains systèmes
+- ❎ #1
 
 
 
